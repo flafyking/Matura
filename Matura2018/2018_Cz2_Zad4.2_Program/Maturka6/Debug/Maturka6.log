@@ -1,0 +1,7 @@
+﻿  Maturka6.cpp
+C:\Users\FlafyKing\source\repos\Maturka6\Maturka6.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FlafyKing\source\repos\Maturka6\Maturka6.cpp(37,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FlafyKing\source\repos\Maturka6\Maturka6.cpp(42,28): warning C4018: '>': signed/unsigned mismatch
+C:\Users\FlafyKing\source\repos\Maturka6\Maturka6.cpp(47,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FlafyKing\source\repos\Maturka6\Maturka6.cpp(24,9): warning C4101: 'tablica': unreferenced local variable
+  Maturka6.vcxproj -> C:\Users\FlafyKing\source\repos\Maturka6\Debug\Maturka6.exe

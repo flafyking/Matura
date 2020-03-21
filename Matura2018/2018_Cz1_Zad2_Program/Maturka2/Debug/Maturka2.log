@@ -1,0 +1,8 @@
+﻿  Maturka2.cpp
+C:\Users\FlafyKing\source\repos\Maturka2\Maturka2.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\FlafyKing\source\repos\Maturka2\Maturka2.cpp(33,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FlafyKing\source\repos\Maturka2\Maturka2.cpp(34,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\FlafyKing\source\repos\Maturka2\Maturka2.cpp(15,11): warning C4101: 'Y': unreferenced local variable
+C:\Users\FlafyKing\source\repos\Maturka2\Maturka2.cpp(16,11): warning C4101: 'Odleglosc': unreferenced local variable
+C:\Users\FlafyKing\source\repos\Maturka2\Maturka2.cpp(14,11): warning C4101: 'X': unreferenced local variable
+  Maturka2.vcxproj -> C:\Users\FlafyKing\source\repos\Maturka2\Debug\Maturka2.exe
